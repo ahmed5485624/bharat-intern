@@ -1,2 +1,0 @@
-# bharat-intern
-bharat intern
